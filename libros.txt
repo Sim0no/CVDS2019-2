@@ -2,10 +2,7 @@
 EL LIBRO MAS FAMOSO DEL MUNDO
 
 AUTORES: Brayan y James
-
-
-hello jamundi
-
+AUTORES: Simon y Alejandro
 
 
 
@@ -16,6 +13,4 @@ CAPITULO DOS
 
 
 CAPITULO TRES
-capitolo 7
-8
 ---------------------------------------------------------
