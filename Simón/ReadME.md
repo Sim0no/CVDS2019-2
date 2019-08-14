@@ -94,8 +94,7 @@ Actualmente estoy cursando el plan de estudios *#14* y  me encuentro cursando la
                 a[i] = count + minimo
                 i += 1
         return a
-        
-        
+              
 # END
 
 Muchas gracias por visitar mi perfil, vuelva pronto :)
