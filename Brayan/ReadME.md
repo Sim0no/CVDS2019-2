@@ -9,4 +9,6 @@ Soy una persona apasionada por el deporte, he participado en diferetes actividad
 
 ![Torneo de ajedrez](https://i.ibb.co/ZRr772c/Torneo-Ajedrez.jpg)
 _Soy una persona que disfruta en aprender cosas nuevas cada dia 📌 y en especial ver feliz a la gente que me rodea_ 🤓.
+
+** Actualmente curso 
 >>>>>>> Agregue mi ReadMe
