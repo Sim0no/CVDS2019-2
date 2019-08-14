@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 *Hola, soy Sergio Alejandro Bohórquez,* **Bienvenido a mi README**
 soy estudiante de la Escuela Colombiana de Ingeniería, un lugar donde encontrarás muchos amigos y quemarás unas cuantas neuronas _(Tal vez muchas)._
 ## Acerca de mi
@@ -43,6 +43,14 @@ Espero que hallas conocido un poco sobre mi, gracias por leer.
 
 > Si pienso con patrones, pienso mejor.
 	> 	Raul Chaparro 2018.
+
+
+##Laboratorio 1 Imágenes
+
+### Main
+
+![Main](https://i.ibb.co/9qW467n/imagen1.png)
+![Remote]()
 
 
 
