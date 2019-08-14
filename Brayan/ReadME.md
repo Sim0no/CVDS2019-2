@@ -10,10 +10,10 @@ Soy una persona apasionada por el deporte, he participado en diferetes actividad
 _Soy una persona que disfruta en aprender cosas nuevas cada dia 📌 y en especial ver feliz a la gente que me rodea_ 🤓.
 ### Actualmente estoy cursando ⚡️:  
 >> **CVDS** Ciclos de Vida del Desarrollo de Software
->**ACSO** Arquitectura Computacional y Sistemas Operativos
->**CNYT** Ciencias Naturales y Tecnología
->**PRYE** Probabilidad y estadística
->**EGI3** Ingles 3
+>>**ACSO** Arquitectura Computacional y Sistemas Operativos
+>>**CNYT** Ciencias Naturales y Tecnología
+>>**PRYE** Probabilidad y estadística
+>>**EGI3** Ingles 3
 
 
 
@@ -41,6 +41,6 @@ _El Convex Hull se puede definir como la intersección de todos los conjuntos co
     return  upper[:-1]+ lower[:-1]
 
 ```
-> _Representacion grafica del  [Convex hull]([https://giphy.com/gifs/j5Eo5GyDDy08PgOULV](https://giphy.com/gifs/j5Eo5GyDDy08PgOULV))_
+> Representacion grafica del  [Convex hull]([https://giphy.com/gifs/j5Eo5GyDDy08PgOULV](https://giphy.com/gifs/j5Eo5GyDDy08PgOULV))
 
 >>>>>>> Agregue mi ReadMe
