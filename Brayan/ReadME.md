@@ -45,7 +45,7 @@ _El Convex Hull se puede definir como la intersección de todos los conjuntos co
 
 ## Laboratorio #1
 
-### Main
+### Main ~
 
 ![Main](https://i.ibb.co/59dHz8m/68905708-2679735995370012-4966424087711711232-n.jpg)
 
