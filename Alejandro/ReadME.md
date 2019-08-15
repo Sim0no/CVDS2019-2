@@ -50,7 +50,11 @@ Espero que hallas conocido un poco sobre mi, gracias por leer.
 ### Main
 
 ![Main](https://i.ibb.co/9qW467n/imagen1.png)
-![Remote]()
+
+### Remote
+![RemoteI](https://i.ibb.co/BTxPXrM/imagen2.png)
+
+
 
 
 
