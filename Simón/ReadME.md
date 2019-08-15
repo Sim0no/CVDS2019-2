@@ -99,6 +99,16 @@ Actualmente estoy cursando el plan de estudios *#14* y  me encuentro cursando la
 
 Muchas gracias por visitar mi perfil, vuelva pronto :)
 
+# LABORATORIO #1
+
+## MAIN
+
+![pantallazo1](https://i.ibb.co/44T6Gct/PARTE-1.png)
+
+
+
+
+
 >  Saber es recordar a tiempo. 
 >
 >    Raul Chaparro, 2018 
