@@ -47,10 +47,10 @@ _El Convex Hull se puede definir como la intersección de todos los conjuntos co
 
 ### Main
 
-![Main](https://ibb.co/5vRpVGY)
+![Main](https://i.ibb.co/59dHz8m/68905708-2679735995370012-4966424087711711232-n.jpg)
 
 ### Remote
 
-![Main](https://ibb.co/y08WF2c)
+![Main](https://i.ibb.co/fvttJZL/67952007-2422069894693770-938088533246083072-n.jpg)
 
 
