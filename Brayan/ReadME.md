@@ -1,4 +1,4 @@
-
+﻿
 # Readme 
 _Hola, mi nombre es *Brayan Felipe Rojas Bernal* y estudio Ingenieria de sistemas en la Escuela Colombiana de Ingenieria Julio Garavito, ubicada en la ciudad de Bogotá._ ✒️
 
@@ -43,4 +43,14 @@ _El Convex Hull se puede definir como la intersección de todos los conjuntos co
 ```
 > Representacion grafica del  [Convex hull](https://giphy.com/gifs/j5Eo5GyDDy08PgOULV)
 
->>>>>>> Agregue mi ReadMe
+## Laboratorio #1
+
+### Main
+
+![Main](https://ibb.co/5vRpVGY)
+
+### Remote
+
+![Main](https://ibb.co/y08WF2c)
+
+
