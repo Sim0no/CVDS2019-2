@@ -82,18 +82,18 @@ Actualmente estoy cursando el plan de estudios *#14* y  me encuentro cursando la
 2. [Pigeon Hole Sort](https://www.youtube.com/watch?v=nVQz0kZNC64), ordenamiento con complejidad O(n + Rango):
 
         def pigeonhole_sort(a): 
-        minimo,maximo = min(a),max(a) 
-        Rango = maximo - minimo + 1
-        agujeros = [0] * Rango 
-        for elementos in a: 
-            agujeros[elementos - minimo] += 1
-        i = 0
-        for count in range(Rango): 
-            while agujeros[count] > 0: 
-                agujeros[count] -= 1
-                a[i] = count + minimo
-                i += 1
-        return a
+            minimo,maximo = min(a),max(a) 
+            Rango = maximo - minimo + 1
+            agujeros = [0] * Rango 
+            for elementos in a: 
+                agujeros[elementos - minimo] += 1
+            i = 0
+            for count in range(Rango): 
+                while agujeros[count] > 0: 
+                    agujeros[count] -= 1
+                    a[i] = count + minimo
+                    i += 1
+            return a
               
 # END
 
