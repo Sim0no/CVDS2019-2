@@ -1,4 +1,4 @@
-﻿# Readme
+# Readme
 
 ### Introduccion.
 Mi nombre es *James Allan Weisnner*, tengo 21 años y Soy estudiante del programa de ingeniería de sistemas en la **Escuela Colombiana de Ingeniería Julio Garavito** curso el plan de estudios 14 y trabajo en una compañía de BPO. Con el dinero que gano trato de restaurar un carro antiguo.
@@ -106,4 +106,4 @@ No vas a creer el numero 5!
 ## Laboratorio
 
 ![lab1](5pics/git1.png)
-![lab1](5pics/git2.png)
+![lab2](5pics/git2.png)
