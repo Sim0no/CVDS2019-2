@@ -105,5 +105,5 @@ No vas a creer el numero 5!
 
 ## Laboratorio
 
-![lab1](5pics/git1.jpg)
-![lab1](5pics/git2.jpg)
+![lab1](5pics/git1.png)
+![lab1](5pics/git2.png)
