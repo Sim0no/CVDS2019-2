@@ -106,6 +106,12 @@ Muchas gracias por visitar mi perfil, vuelva pronto :)
 ![pantallazo1](https://i.ibb.co/44T6Gct/PARTE-1.png)
 
 
+## REMOTE
+
+![pantallazo2](https://i.ibb.co/FmwTbYF/Captura1.png)
+
+![pantallazo3](https://i.ibb.co/JdcD91k/Captura2.png)
+
 
 
 
